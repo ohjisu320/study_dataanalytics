@@ -3,7 +3,7 @@
 #### DDA
 <details>
   <summary>
-    DDA
+    데이터 설명 및 분석가 의견
   </summary>
   
 |no|Variable|Definition|Key|분석가 의견|
