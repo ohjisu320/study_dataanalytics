@@ -1,6 +1,12 @@
-# study_dataanalytics
+# 📈 study_dataanalytics
+- 수주 팀인, 속세팀의 데이터셋을 분석하는 개인프로젝트입니다.
 
-#### DDA
+## 사용기술
+
+<img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
+
+### DDA
 <details>
   <summary>
     데이터 설명 및 분석가 의견
@@ -23,7 +29,7 @@
 
 </details>
 
-#### EDA
+### EDA
 <details>
   <summary>
     주요 분석 관점
@@ -44,25 +50,7 @@
 </details>
 
 
-#### EDA
-<details>
-  <summary>
-    주요 분석 관점
-  </summary>
-  
-#### 1. 계약기간 별 월세/보증금 평균
-  
-- 문제 정의: 서울의 구/동별 매물의 월세/보증금의 평균치를 계약기간 별로 도출한다.
-- 배경: 월세/보증금의 평균치를 통해 고객의 n년 지출금액에 따라 지역을 추천하여, 고객의 매물 탐색 기간을 줄여 고객만족도를 높인다. 또한 브랜드 코리빙하우스가 평균 시세보다 저렴한지 아닌지 판단할 수 있도록 한다. 
-- 전제: py_cate ==1 or py_cate ==2 (py: 19.83-39.66 / 5.99-11.99평)인 경우 == 올라온 매물의 평수가 중위구간인 경우
-
-#### 2. 평수/지역에 따른 월세/보증금 예측
-- 문제 정의: 서울 매물의 평수/지역에 따라 월세/보증금을 예측한다.
-- 배경: 고객이 매물을 구할 때 보유현금 및 월 수입에 따른 예상 금액을 도출하고, 그에 따른 맞춤형 매물을 추천함으로써, 고객 만족도를 높이고 매출 증대에 기여할 수 있다.
-
-</details>
-
-#### CDA
+### CDA
 <details>
   <summary>
     주요 분석 관점
@@ -70,7 +58,6 @@
   
 - 지역별(범주) 매물의 평균 거주 비용(연속)의 차이가 있는지 분석
 - 보증금(연속)에 따른 평균 월세(연속)의 차이가 있는지 분석 / 임의적으로 설정한 보증금구간(범주)에 따른 평균 월세구간(범주)의 차이가 있는지 분석 -> 어떤 데이터가 더 효과적일지 판단 
-- 월세(연속)에 따른 평균 보증금(연속)의 차이가 있는지 분석 / 임의적으로 설정한 월세구간(범주)에 따른 평균 보증금구간(범주)의 차이가 있는지 분석 -> 어떤 데이터가 더 효과적일지 판단 
 
 </details>
 
