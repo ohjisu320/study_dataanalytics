@@ -1,12 +1,12 @@
 # 📈 study_dataanalytics
 - 수주 팀인, 속세팀의 데이터셋을 분석하는 개인프로젝트입니다.
 
-## 사용기술
+## ☑ 사용기술
 
 <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
 
-### DDA
+### 💻 DDA
 <details>
   <summary>
     데이터 설명 및 분석가 의견
@@ -29,7 +29,7 @@
 
 </details>
 
-### EDA
+### 💻 EDA
 <details>
   <summary>
     주요 분석 관점
@@ -50,7 +50,7 @@
 </details>
 
 
-### CDA
+### 💻 CDA
 <details>
   <summary>
     주요 분석 관점
